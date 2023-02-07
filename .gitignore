@@ -2,3 +2,5 @@ env-tetrisPygame
 src/__pycache__
 test
 main.spec
+build
+dist
